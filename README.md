@@ -11,6 +11,9 @@ Aim of this exercise is to find a subset of data which contains the “informati
 spacy<br>
 gensim<br>
 bs4 <br>
+pandas<br>
+matplotlib<br>
+seaborn<br>
 
 # References
 
